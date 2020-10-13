@@ -1,0 +1,10 @@
+add_library(altruistic_behavior_qt_user_functions MODULE 
+  altruistic_behavior_qt_user_functions.h
+  altruistic_behavior_qt_user_functions.cpp)
+
+target_link_libraries(altruistic_behavior_qt_user_functions
+  argos3core_simulator
+  argos3plugin_simulator_entities
+  argos3plugin_simulator_footbot
+  argos3plugin_simulator_qtopengl
+  ${ARGOS_QTOPENGL_LIBRARIES})
