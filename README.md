@@ -1,5 +1,5 @@
-# argos_altruistic_behavior
-Repository for the code corresponding to our research "Modeling the Influence of Social Feedback on Altruism using Multi-Agent Systems".
+# A C++ based simulation of a collective resource sharing behaviour of an altruistic multi-agent system, using ARGoS. 
+Repository for the code corresponding to our research "Modeling the Influence of Social Feedback on Altruism using Multi-Agent Systems" published by the MIT Press https://doi.org/10.1162/isal_a_00256 .
 
 ## Installation
 
