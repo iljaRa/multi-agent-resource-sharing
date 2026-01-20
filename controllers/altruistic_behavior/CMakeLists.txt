@@ -1,5 +1,0 @@
-add_library(altruistic_behavior MODULE altruistic_behavior.h altruistic_behavior.cpp)
-target_link_libraries(altruistic_behavior
-  argos3core_simulator
-  argos3plugin_simulator_footbot
-  argos3plugin_simulator_genericrobot)
